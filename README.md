@@ -24,10 +24,10 @@
     ###   The Source code for paper "Influence Assessment in Twitter Multi-Relational Network"
     ###             written by Lobna Azaza, Sergey Kirgizov, Marinette Savonnet, Eric Leclercq
 
-## The Source code for paper "Influence Assessment in Twitter Multi-Relational Network"
-##             written by Lobna Azaza, Sergey Kirgizov, Marinette Savonnet, Eric Leclercq
+# The source code and figures for our paper 
 
-## 
+**Influence Assessment in Twitter Multi-Relational Network**  —  **Lobna Azaza, Sergey Kirgizov, Marinette Savonnet, Eric Leclercq**
+
 <img src="ranking10.png" alt="example of our method" width="100%">
  
 # TODO
