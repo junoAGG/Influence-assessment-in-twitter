@@ -1,0 +1,14 @@
+            T.Faible  Faible  A.Moy Moy   A.Forte  Forte   T.Forte      E.Forte            Ω
+
+T.Faible    Faible    A.Moy   Moy       A.Forte   Forte   T.Forte  T.Forte      E.Forte  T.Faible
+Faible      A.Moy     A.Moy   Moy A.Forte Forte T.Forte T.Forte                      E.Forte   Faible
+A.Moy       Moy       Moy     A.Forte Forte T.Forte T.Forte T.Forte                      E.Forte   A.Moy
+Moy         A.Forte   A.Forte   Forte Forte T.Forte T.Forte T.Forte                E.Forte   Moy
+A.Forte     Forte     Forte     T.Forte T.Forte T.Forte T.Forte T.Forte                E.Forte   A.Forte
+Forte       T.Forte   T.Forte   T.Forte T.Forte T.Forte E.Forte E.Forte           E.Forte    Forte
+T.Forte     T.Forte   T.Forte   T.Forte T.Forte T.Forte E.Forte E.Forte            E.Forte   T.Forte
+E.Forte     E.Forte   E.Forte   E.Forte E.Forte E.Forte E.Forte E.Forte              E.Forte E.Forte
+Ω           T.Faible  Faible    A.Moy   Moy       A.Forte   Forte   T.Forte    E.Forte    Ω
+
+
+
